@@ -9,7 +9,6 @@
             "hash": "a4cbebcce948e1757de193d5af208080dd0cc695ec20d0d872a356519e3e893b"
         }
     },
-    "hash": "7d6c0d3c94d4ff1755cbdf3eb9b235a16084588c1e31759bd221617e5ac166d3",
     "bin": "dcma.exe",
     "checkver": "github",
     "autoupdate": {
