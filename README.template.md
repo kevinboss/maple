@@ -1,3 +1,3 @@
-# Shovel %%BUCKET_NAME%% Bucket %%SAMPLE_MARKDOWN_BADGE_CODE%%
+# Shovel maple Bucket [![Build status](https://ci.appveyor.com/api/projects/status/4igiml0e7xqo5pr6?svg=true)](https://ci.appveyor.com/project/kevinboss/maple)
 
-`shovel bucket add %%NICE_NAME_TO_BE_SHOWN_TO_USER%% '%%HTTPS_GITHUB_REPOSITORY_URL.git%%'`
+`shovel bucket add maple 'https://github.com/kevinboss/maple.git'`
