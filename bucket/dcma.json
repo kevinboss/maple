@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/kevinboss/dcma/releases/download/v0.0.1/dcma-v0.0.1-win-x64.zip",
-            "hash": "a4cbebcce948e1757de193d5af208080dd0cc695ec20d0d872a356519e3e893b"
+            "hash": "150a10423668e921eb0f1320e0d9bff5bbb85388c2308a776aeb8e6e221ffa8d"
         }
     },
     "bin": "dcma.exe",
