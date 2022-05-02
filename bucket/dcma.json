@@ -10,7 +10,9 @@
         }
     },
     "bin": "dcma.exe",
-    "checkver": "github",
+    "checkver": {
+        "github": "https://github.com/kevinboss/dcma"
+    },
     "autoupdate": {
         "architecture": {
             "64bit": {
