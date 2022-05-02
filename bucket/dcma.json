@@ -14,7 +14,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/kevinboss/dcma/releases/download/$version/dcma-$version-win-x64.zip"
+                "url": "https://github.com/kevinboss/dcma/releases/download/v$version/dcma-v$version-win-x64.zip"
             }
         }
     }
