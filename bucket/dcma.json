@@ -1,12 +1,12 @@
 {
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "DCMA (docker container manager)",
     "homepage": "https://github.com/kevinboss/dcma",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/kevinboss/dcma/releases/download/v0.0.1/dcma-v0.0.1-win-x64.zip",
-            "hash": "150a10423668e921eb0f1320e0d9bff5bbb85388c2308a776aeb8e6e221ffa8d"
+            "url": "https://github.com/kevinboss/dcma/releases/download/v0.0.2/dcma-v0.0.2-win-x64.zip",
+            "hash": "fa7a14e7d0783f9c48e7a286717fe9e846295388089d544288827187ec3a9504"
         }
     },
     "bin": "dcma.exe",
