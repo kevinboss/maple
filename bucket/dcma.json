@@ -1,6 +1,6 @@
 {
     "version": "0.0.3",
-    "description": "DCMA (docker container manager)",
+    "description": "DCMA (DoCker ManAger)",
     "homepage": "https://github.com/kevinboss/dcma",
     "license": "MIT",
     "architecture": {
