@@ -1,6 +1,6 @@
 {
     "version": "0.0.4",
-    "description": "DCMA (DoCker ManAger)",
+    "description": "dcma",
     "homepage": "https://github.com/kevinboss/dcma",
     "license": "MIT",
     "architecture": {
