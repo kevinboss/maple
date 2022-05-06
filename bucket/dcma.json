@@ -1,12 +1,12 @@
 {
-    "version": "0.0.4",
+    "version": "0.0.5",
     "description": "dcma",
     "homepage": "https://github.com/kevinboss/dcma",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/kevinboss/dcma/releases/download/v0.0.4/dcma-v0.0.4-win-x64.zip",
-            "hash": "cfbc7659dc3fd4efd4cc8b41eeaf72cd30a1a83efd168876eb4fbe85e8a8c0e8"
+            "url": "https://github.com/kevinboss/dcma/releases/download/v0.0.5/dcma-v0.0.5-win-x64.zip",
+            "hash": "909612b8f0bcdc84f9d8749e78755aecb32f15ae2aa5cf85019ea9311fa43dcf"
         }
     },
     "bin": "dcma.exe",
