@@ -1,12 +1,12 @@
 {
-    "version": "0.6.1",
+    "version": "0.6.2",
     "description": "port",
     "homepage": "https://github.com/kevinboss/port",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/kevinboss/port/releases/download/v0.6.1/port-v0.6.1-win-x64.zip",
-            "hash": "73517f9f21ee9bc9c9056dc296d3bd73ff2628dd3e55c04178d6b98980b78948"
+            "url": "https://github.com/kevinboss/port/releases/download/v0.6.2/port-v0.6.2-win-x64.zip",
+            "hash": "7b93df72a4270d72a15cc5a87342a08d392e3ea7089ae433ae9140eea875b641"
         }
     },
     "bin": "port.exe",
