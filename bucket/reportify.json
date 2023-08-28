@@ -1,11 +1,11 @@
 {
-    "version": "0.2.0",
+    "version": "0.1.0",
     "description": "reportify",
     "homepage": "https://github.com/francWhite/reportify",
     "license": "GPL3",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/francWhite/reportify/releases/download/v0.2.0/reportify-v0.2.0-win-x64.zip"
+            "url": "https://github.com/francWhite/reportify/releases/download/v0.1.0/reportify-v0.1.0-win-x64.zip"
         }
     },
     "bin": "reportify.exe",
