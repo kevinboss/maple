@@ -1,7 +1,7 @@
 {
     "version": "1.0.2",
     "description": "watchex",
-    "homepage": "https://github.com/francWhite/reportify",
+    "homepage": "https://github.com/francWhite/watchex",
     "license": "GPL3",
     "architecture": {
         "64bit": {
