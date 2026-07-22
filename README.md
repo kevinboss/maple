@@ -5,8 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/kevinboss/maple/actions/workflows/ci.yml"><img src="https://github.com/kevinboss/maple/actions/workflows/ci.yml/badge.svg" alt="Tests"></a>
-  <a href="LICENSE"><img src="https://img.shields.io/github/license/kevinboss/maple" alt="License: Unlicense"></a>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white" alt="PowerShell">
+  <a href="https://github.com/kevinboss/maple/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/kevinboss/maple/ci.yml?label=CI" alt="CI"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/kevinboss/maple" alt="License"></a>
 </p>
 
 ## Install
