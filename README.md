@@ -10,8 +10,29 @@
   <a href="LICENSE"><img src="https://img.shields.io/github/license/kevinboss/maple" alt="License"></a>
 </p>
 
+maple is a [Scoop](https://scoop.sh/) bucket of Windows tools maintained by
+[@kevinboss](https://github.com/kevinboss). Each package lives as a JSON
+manifest in [`bucket/`](bucket/) and is checked for new releases on a schedule.
+
 ## Install
 
-```sh
-shovel bucket add maple 'https://github.com/kevinboss/maple.git'
+```powershell
+scoop bucket add maple 'https://github.com/kevinboss/maple.git'
 ```
+
+Replace `scoop` with `shovel` if you use Shovel.
+
+## Usage
+
+Install or update any app from [`bucket/`](bucket/), such as `port`:
+
+```powershell
+scoop install maple/port  # install an app from the bucket
+scoop update              # update the bucket
+scoop update maple/port   # update an installed app
+```
+
+## How to contribute
+
+Add or edit manifests in [`bucket/`](bucket/) and open a pull request. See
+[CONTRIBUTING.md](CONTRIBUTING.md) for prerequisites and running tests.
